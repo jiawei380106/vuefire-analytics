@@ -1,7 +1,7 @@
 # vuefire-analytics
 Integrating Vuefire and Vue Chartkick
 
-Edit: https://codesandbox.io/s/github/scboesch/vuefire-analytics
+Edit: https://codesandbox.io/s/github/jiawei380106/vuefire-analytics
 
-Demo: https://scboesch.github.io/vuefire-analytics/
+Demo: https://jiawei380106.github.io/vuefire-analytics/
 
